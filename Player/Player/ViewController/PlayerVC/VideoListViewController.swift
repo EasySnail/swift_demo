@@ -40,7 +40,7 @@ extension VideoListViewController{
             if (self.dataArray.count == 0){
                 let md = VideoModel()
                 md.name = "蒲公英"
-                md.localUrl = Bundle.main.path(forResource: "a1", ofType: "MP4")
+                md.localUrl = Bundle.main.path(forResource: "a1", ofType: "mp4")
                 self.dataArray .append(md)
             }
             

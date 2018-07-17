@@ -22,6 +22,7 @@ extension PlayerViewModel{
 class EPlayerViewController: EViewController {
     
     weak open var playerModel: PlayerViewModel?
+    /*
     let PalyerHeight = KSCREENWIDTH * 0.5625
     private var isLandscape:Bool = false                     //是否是横屏
     
@@ -48,9 +49,10 @@ class EPlayerViewController: EViewController {
     deinit {
         player.stop()
     }
+ */
 }
 
-
+/*
 
 // MARK: - 设置UI
 extension EPlayerViewController{
@@ -148,5 +150,5 @@ extension EPlayerViewController:VLCMediaPlayerDelegate{
     }
 }
 
-
+*/
 

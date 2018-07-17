@@ -12,7 +12,6 @@
 		403EAAFD1FD8E16C0008F5EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 403EAAFB1FD8E16C0008F5EB /* Main.storyboard */; };
 		403EAAFF1FD8E16C0008F5EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 403EAAFE1FD8E16C0008F5EB /* Assets.xcassets */; };
 		403EAB021FD8E16C0008F5EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 403EAB001FD8E16C0008F5EB /* LaunchScreen.storyboard */; };
-		403EAB111FD8F2000008F5EB /* MobileVLCKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 403EAB101FD8F2000008F5EB /* MobileVLCKit.framework */; };
 		403EAB131FD8F2530008F5EB /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 403EAB121FD8F24D0008F5EB /* AudioToolbox.framework */; };
 		403EAB151FD8F2730008F5EB /* VideoToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 403EAB141FD8F26D0008F5EB /* VideoToolbox.framework */; };
 		403EAB171FD8F2950008F5EB /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 403EAB161FD8F27E0008F5EB /* CoreMedia.framework */; };
@@ -28,7 +27,7 @@
 		403EAB301FD90DF60008F5EB /* ENavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403EAB2F1FD90DF60008F5EB /* ENavigationController.swift */; };
 		403EAB321FD90E220008F5EB /* EViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403EAB311FD90E220008F5EB /* EViewController.swift */; };
 		403EAB381FD91AE40008F5EB /* PlayerDefinition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403EAB371FD91AE40008F5EB /* PlayerDefinition.swift */; };
-		408A439E20FDF5EF00DBFC69 /* a1.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 408A439D20FDF5EF00DBFC69 /* a1.MP4 */; };
+		408A439E20FDF5EF00DBFC69 /* a1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 408A439D20FDF5EF00DBFC69 /* a1.mp4 */; };
 		40ACCF621FDE140900EC8B97 /* EFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ACCF611FDE140900EC8B97 /* EFileManager.swift */; };
 		40ACCF861FDE298700EC8B97 /* Player.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 40ACCF841FDE298700EC8B97 /* Player.xcdatamodeld */; };
 		40ACCF891FDE2A5900EC8B97 /* ECoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ACCF881FDE2A5900EC8B97 /* ECoreDataManager.swift */; };
@@ -55,7 +54,6 @@
 		403EAB011FD8E16C0008F5EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		403EAB031FD8E16C0008F5EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		403EAB091FD8EE8A0008F5EB /* Player-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Player-Bridging-Header.h"; sourceTree = "<group>"; };
-		403EAB101FD8F2000008F5EB /* MobileVLCKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MobileVLCKit.framework; sourceTree = "<group>"; };
 		403EAB121FD8F24D0008F5EB /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		403EAB141FD8F26D0008F5EB /* VideoToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = VideoToolbox.framework; path = System/Library/Frameworks/VideoToolbox.framework; sourceTree = SDKROOT; };
 		403EAB161FD8F27E0008F5EB /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
@@ -71,7 +69,7 @@
 		403EAB2F1FD90DF60008F5EB /* ENavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ENavigationController.swift; sourceTree = "<group>"; };
 		403EAB311FD90E220008F5EB /* EViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EViewController.swift; sourceTree = "<group>"; };
 		403EAB371FD91AE40008F5EB /* PlayerDefinition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerDefinition.swift; sourceTree = "<group>"; wrapsLines = 0; };
-		408A439D20FDF5EF00DBFC69 /* a1.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = a1.MP4; sourceTree = "<group>"; };
+		408A439D20FDF5EF00DBFC69 /* a1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = a1.mp4; sourceTree = "<group>"; };
 		40ACCF611FDE140900EC8B97 /* EFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EFileManager.swift; sourceTree = "<group>"; };
 		40ACCF851FDE298700EC8B97 /* Player.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Player.xcdatamodel; sourceTree = "<group>"; };
 		40ACCF881FDE2A5900EC8B97 /* ECoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ECoreDataManager.swift; sourceTree = "<group>"; };
@@ -106,7 +104,6 @@
 				F85E446746837755E2F302E0 /* libPods-Player.a in Frameworks */,
 				403EAB271FD8F2F70008F5EB /* libz.1.tbd in Frameworks */,
 				403EAB231FD8F2E10008F5EB /* libiconv.2.tbd in Frameworks */,
-				403EAB111FD8F2000008F5EB /* MobileVLCKit.framework in Frameworks */,
 				403EAB251FD8F2EB0008F5EB /* libc++.1.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -171,7 +168,6 @@
 		403EAB0F1FD8F1D40008F5EB /* VLCSDK */ = {
 			isa = PBXGroup;
 			children = (
-				403EAB101FD8F2000008F5EB /* MobileVLCKit.framework */,
 			);
 			path = VLCSDK;
 			sourceTree = "<group>";
@@ -206,7 +202,7 @@
 		408A439C20FDF5DB00DBFC69 /* Resourse */ = {
 			isa = PBXGroup;
 			children = (
-				408A439D20FDF5EF00DBFC69 /* a1.MP4 */,
+				408A439D20FDF5EF00DBFC69 /* a1.mp4 */,
 			);
 			path = Resourse;
 			sourceTree = "<group>";
@@ -394,7 +390,7 @@
 			files = (
 				403EAB021FD8E16C0008F5EB /* LaunchScreen.storyboard in Resources */,
 				403EAAFF1FD8E16C0008F5EB /* Assets.xcassets in Resources */,
-				408A439E20FDF5EF00DBFC69 /* a1.MP4 in Resources */,
+				408A439E20FDF5EF00DBFC69 /* a1.mp4 in Resources */,
 				403EAAFD1FD8E16C0008F5EB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
